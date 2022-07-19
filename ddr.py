@@ -1,6 +1,6 @@
 import math
 
-from config import DATA_PATH, MODELS_PATH, TARGET_LANGS
+from config import DATA_PATH, MODELS_PATH, TARGET_LANGS, DDR_SAMPLE_SIZE
 import os
 import pandas as pd
 from tqdm import tqdm
